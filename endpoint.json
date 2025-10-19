@@ -1,9 +1,9 @@
 {
-  "enabled": true,
-  "version": "v1.1.0",
-  "url": "https://github.com/syringeefy/vornex/releases/download/v1.1.0/Vornex-v1.1.0.zip",
-  "fortnite_version": "++Fortnite+Release-37.50-CL-46578011-Windows",
-  "hash": "84C0C522A4D4865C4F38D17503D49ECDE158F4EEA968CCACB1004A2CAE7A56AD",
-  "changelog": "Initial release with enhanced security",
-  "release_date": "2025-01-18"
+  "Enabled": true,
+  "Version": "v1.1.0",
+  "Url": "https://github.com/syringeefy/vornex/releases/download/v1.1.0/Vornex-v1.1.0.zip",
+  "Fortnite": "++Fortnite+Release-37.50-CL-46578011-Windows",
+  "Hash": "84C0C522A4D4865C4F38D17503D49ECDE158F4EEA968CCACB1004A2CAE7A56AD",
+  "Changelog": "Initial release with enhanced security",
+  "ReleaseDate": "2025-01-18"
 }
